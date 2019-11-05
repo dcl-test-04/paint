@@ -1,2 +1,1 @@
-# paint
-Paint's repo
+# Paint's repo
